@@ -1,6 +1,10 @@
 
 # Efficient Frontier & Sharpe Landscape Lab
 
+
+<img width="2914" height="1282" alt="image" src="https://github.com/user-attachments/assets/d8c67def-6083-4256-9902-b4be1f6a5720" />
+
+
 ## Creator/Dev: tubakhxn
 
 ## What is this project about?
@@ -47,3 +51,4 @@ This project is a Streamlit application for portfolio optimization research and 
 - **Efficient Frontier:** Set of portfolios offering the highest expected return for each level of risk.
 - **Minimum Variance Portfolio:** Portfolio with the lowest possible volatility.
 - **Maximum Sharpe Portfolio:** Portfolio with the highest Sharpe ratio (optimal risk-adjusted return).
+
